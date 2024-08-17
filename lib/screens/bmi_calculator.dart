@@ -25,7 +25,7 @@ class _ApplicatinScreenState extends State<ApplicatinScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Center(child: Text('MBI Calculator')),
+        title: const Center(child: Text('BMI Calculator')),
         backgroundColor: const Color(0xFF24263B),
       ),
       body: Container(
